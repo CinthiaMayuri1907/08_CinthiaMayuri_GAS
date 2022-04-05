@@ -19,7 +19,7 @@ function myFunction() {
       detail.push(data);
     }
   })
-
+ /*CINTHIA*/
   const data = {
     nombreA: header,
     detalle: detail
